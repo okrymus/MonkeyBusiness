@@ -1,0 +1,15 @@
+﻿Build started 1/26/2016 12:21:16 PM.
+Project "Z:\Dropbox\Public\BHCC\Sping 2016\CIT 237\HW\MonkeyBusiness\MonkeyBusiness\MonkeyBusiness.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt monkeyBusiness.cpp
+  monkeyBusiness.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\Dropbox\Public\BHCC\Sping 2016\CIT 237\HW\MonkeyBusiness\Release\MonkeyBusiness.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\Dropbox\Public\BHCC\Sping 2016\CIT 237\HW\MonkeyBusiness\Release\MonkeyBusiness.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\Dropbox\Public\BHCC\Sping 2016\CIT 237\HW\MonkeyBusiness\Release\MonkeyBusiness.lib" /MACHINE:X86 /SAFESEH Release\monkeyBusiness.obj
+  Generating code
+  Finished generating code
+  MonkeyBusiness.vcxproj -> Z:\Dropbox\Public\BHCC\Sping 2016\CIT 237\HW\MonkeyBusiness\Release\MonkeyBusiness.exe
+Done Building Project "Z:\Dropbox\Public\BHCC\Sping 2016\CIT 237\HW\MonkeyBusiness\MonkeyBusiness\MonkeyBusiness.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.29
